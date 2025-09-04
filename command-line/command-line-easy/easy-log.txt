@@ -1,0 +1,22 @@
+    1  mkdir command-line
+    2  mkdir shell-scripts
+    3  c-programs
+    4  ls
+    5  mkdir c-programs
+    6  ls
+    7  git add .
+    8  git commit -m "created folders for lab (command line, shell-script, c-programs)" 
+    9  git push
+   10  pwd
+   11  ls
+   12  cd command-line
+   13  mkdir command-line-easy && cd command-line-easy
+   14  touch hello.txt
+   15  nano hello.txt
+   16  cp hello.txt hello-copy.txt
+   17  mv hello-copy.txt ../
+   18  rm hello.txt
+   19  cat ../hello-copy.txt
+   20  man ls
+   21  echo "Test" > test.txt
+   22  history > easy-log.txt
