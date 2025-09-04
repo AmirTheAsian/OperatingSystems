@@ -1,0 +1,5 @@
+total 8
+-rw-rw-rw- 1 codespace codespace 568 Sep  4 19:33 easy-log.txt
+-rw-rw-rw- 1 codespace codespace   0 Sep  4 19:38 files.txt
+-rw------- 1 codespace codespace   0 Sep  4 19:36 secret.txt
+-rw-rw-rw- 1 codespace codespace   5 Sep  4 19:32 test.txt
